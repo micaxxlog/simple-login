@@ -1,4 +1,3 @@
-daemon-configure
 Flask==2.0.3
 Werkzeug==2.0.3
 flask_sqlalchemy==2.5.1
